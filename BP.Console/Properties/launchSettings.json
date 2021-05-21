@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BP.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "same cost words-english.txt words-english.result.txt"
+    }
+  }
+}
